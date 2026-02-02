@@ -1,0 +1,1153 @@
+{
+  "id": "10974",
+  "type": "areas",
+  "zones": [
+    {
+      "id": "25100",
+      "type": "zones",
+      "facility_sectors": [
+        {
+          "id": "297406",
+          "type": "facility_sectors",
+          "facility_sectors": [
+            {
+              "id": "297407",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "297408",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297409",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297410",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297411",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297412",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297413",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297414",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297415",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297459",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-1301-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 1301",
+              "short_name": "R1301",
+              "code": "row-1301",
+              "status": "active",
+              "position": 0,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8792"
+              },
+              "map_config": {
+                "position": 0
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            },
+            {
+              "id": "297416",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "444091",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297417",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "row-1302-post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444092",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297418",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "row-1302-post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297419",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "row-1302-post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297420",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "row-1302-post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297421",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "row-1302-post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297422",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "row-1302-post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297460",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-1302-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 1302",
+              "short_name": "R1302",
+              "code": "row-1302",
+              "status": "active",
+              "position": 1,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8793"
+              },
+              "map_config": {
+                "position": 1
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            },
+            {
+              "id": "297423",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "444093",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297424",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "row-1303-post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444094",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297425",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "row-1303-post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297426",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "row-1303-post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297427",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "row-1303-post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297428",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "row-1303-post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297429",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "row-1303-post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297461",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-1303-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 1303",
+              "short_name": "R1303",
+              "code": "row-1303",
+              "status": "active",
+              "position": 2,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8794"
+              },
+              "map_config": {
+                "position": 2
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            },
+            {
+              "id": "297430",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "297431",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "row-1304-post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444095",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297432",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "row-1304-post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444096",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297433",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "row-1304-post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297434",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "row-1304-post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297435",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "row-1304-post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297436",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "row-1304-post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297462",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-1304-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 1304",
+              "short_name": "R1304",
+              "code": "row-1304",
+              "status": "active",
+              "position": 3,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8795"
+              },
+              "map_config": {
+                "position": 3
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            }
+          ],
+          "name": "House 1",
+          "short_name": "H1",
+          "code": "house-1",
+          "status": "active",
+          "position": 0,
+          "app_config": {},
+          "map_config": {
+            "position": 0
+          },
+          "capacity": null,
+          "facility_sector_type": "division"
+        },
+        {
+          "id": "297437",
+          "type": "facility_sectors",
+          "facility_sectors": [
+            {
+              "id": "297438",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "297439",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "row-2301-post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444097",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297440",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "row-2301-post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444098",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297441",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "row-2301-post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297442",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "row-2301-post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297443",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "row-2301-post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297444",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "row-2301-post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297463",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-2301-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 2301",
+              "short_name": "R2301",
+              "code": "row-2301",
+              "status": "active",
+              "position": 0,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8796"
+              },
+              "map_config": {
+                "position": 0
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            },
+            {
+              "id": "297445",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "297446",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "row-2302-post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444099",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297447",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "row-2302-post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444100",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297448",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "row-2302-post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297449",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "row-2302-post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297450",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "row-2302-post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297451",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "row-2302-post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297464",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-2302-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 2302",
+              "short_name": "R2302",
+              "code": "row-2302",
+              "status": "active",
+              "position": 1,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8797"
+              },
+              "map_config": {
+                "position": 1
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            },
+            {
+              "id": "297452",
+              "type": "facility_sectors",
+              "facility_sectors": [
+                {
+                  "id": "444101",
+                  "type": "facility_sectors",
+                  "name": "Left",
+                  "short_name": "L",
+                  "code": "left",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 0
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297453",
+                  "type": "facility_sectors",
+                  "name": "Post 1",
+                  "short_name": "P1",
+                  "code": "row-2303-post-1",
+                  "status": "active",
+                  "position": 0,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297454",
+                  "type": "facility_sectors",
+                  "name": "Post 2",
+                  "short_name": "P2",
+                  "code": "row-2303-post-2",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "444102",
+                  "type": "facility_sectors",
+                  "name": "Right",
+                  "short_name": "R",
+                  "code": "right",
+                  "status": "active",
+                  "position": 1,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 1
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "gutter"
+                },
+                {
+                  "id": "297455",
+                  "type": "facility_sectors",
+                  "name": "Post 3",
+                  "short_name": "P3",
+                  "code": "row-2303-post-3",
+                  "status": "active",
+                  "position": 2,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297456",
+                  "type": "facility_sectors",
+                  "name": "Post 4",
+                  "short_name": "P4",
+                  "code": "row-2303-post-4",
+                  "status": "active",
+                  "position": 3,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297457",
+                  "type": "facility_sectors",
+                  "name": "Post 5",
+                  "short_name": "P5",
+                  "code": "row-2303-post-5",
+                  "status": "active",
+                  "position": 4,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297458",
+                  "type": "facility_sectors",
+                  "name": "Post 6",
+                  "short_name": "P6",
+                  "code": "row-2303-post-6",
+                  "status": "active",
+                  "position": 5,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                },
+                {
+                  "id": "297465",
+                  "type": "facility_sectors",
+                  "name": "Post 7",
+                  "short_name": "P7",
+                  "code": "row-2303-post-7",
+                  "status": "removed",
+                  "position": 6,
+                  "app_config": {},
+                  "map_config": {
+                    "position": 23
+                  },
+                  "capacity": null,
+                  "facility_sector_type": "post"
+                }
+              ],
+              "name": "Row 2303",
+              "short_name": "R2303",
+              "code": "row-2303",
+              "status": "active",
+              "position": 2,
+              "app_config": {
+                "rfid": "E2806894000050A8073D8798"
+              },
+              "map_config": {
+                "position": 2
+              },
+              "capacity": null,
+              "facility_sector_type": "row"
+            }
+          ],
+          "name": "House 2",
+          "short_name": "H2",
+          "code": "house-2",
+          "status": "active",
+          "position": 1,
+          "app_config": {},
+          "map_config": {
+            "position": 1
+          },
+          "capacity": null,
+          "facility_sector_type": "division"
+        }
+      ],
+      "created_at": "2019-05-22T00:42:45.142Z",
+      "updated_at": "2022-05-09T20:28:11.973Z",
+      "facility_id": 1795,
+      "name": "Lab 1",
+      "short_name": "L1",
+      "position": null,
+      "seeding_unit_id": null,
+      "seeding_unit_capacity": 0,
+      "size": 0,
+      "code": "lab1",
+      "stage_id": null,
+      "status": "active",
+      "capacity_type": "seeding_unit_capacity",
+      "app_config": {
+        "dcs": null,
+        "x_max": 1,
+        "y_max": 4,
+        "nickname": "",
+        "has_devices": false,
+        "supportsGridView": true
+      },
+      "map_config": {},
+      "luna_space_code": "lab1"
+    }
+  ],
+  "name": "Building 1",
+  "short_name": "B1",
+  "code": "building1",
+  "status": "active",
+  "app_config": {},
+  "map_config": {}
+}

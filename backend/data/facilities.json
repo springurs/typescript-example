@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10974",
+    "name": "Facility 0",
+    "map_config": { "latitude": 26.820553, "longitude": 30.802498 },
+    "city": "Cairo",
+    "state": "",
+    "country_code": "EG",
+    "postal_code": "11511",
+    "locale": "ar",
+    "time_zone": "Africa/Cairo",
+    "status": "active"
+  },
+  {
+    "id": "11205",
+    "name": "Facility 1",
+    "map_config": { "latitude": 47.608013, "longitude": -122.335167 },
+    "city": "Seattle",
+    "state": "WA",
+    "country_code": "US",
+    "postal_code": "98101",
+    "locale": "en",
+    "time_zone": "America/Los_Angeles",
+    "status": "active"
+  },
+  {
+    "id": "11206",
+    "name": "Facility 2",
+    "map_config": { "latitude": 41.902782, "longitude": 12.496366 },
+    "city": "Rome",
+    "state": "",
+    "country_code": "IT",
+    "postal_code": "00100",
+    "locale": "it",
+    "time_zone": "Europe/Rome",
+    "status": "active"
+  }
+]

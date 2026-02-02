@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@layer base {
+  #root {
+    height: 100vh;
+  }
+}

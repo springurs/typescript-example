@@ -1,0 +1,25 @@
+{
+  "name": "iunu-exercise-1",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently 'npm --workspace=backend run dev' 'npm --workspace=frontend run dev'",
+    "build": "npm --workspace=backend run build && npm --workspace=frontend run build",
+    "start": "npm --workspace=backend run start && npm --workspace=frontend run start"
+  },
+  "workspaces": [
+    "frontend",
+    "/backend"
+  ],
+  "prettier": {
+    "semi": true,
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "trailingComma": "es5",
+    "printWidth": 120
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
