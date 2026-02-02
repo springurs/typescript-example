@@ -1,6 +1,6 @@
 # IUNU Exercise
 
-Welcome to the IUNU exercise repository! This project consists of a frontend application built with React, TypeScript, and Vite, as well as a backend server using Node.js and the Hono framework. The frontend allows users to select a facility and view its map using data provided by the backend API.
+This project consists of a frontend application built with React, TypeScript, and Vite, as well as a backend server using Node.js and the Hono framework. The frontend allows users to select a facility and view its map using data provided by the backend API.
 
 ## Project Structure
 - `frontend/`: Contains the React frontend application.
